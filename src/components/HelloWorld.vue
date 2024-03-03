@@ -12,7 +12,7 @@
     </ul>
     <h3>Essential Links</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs 往前666</a></li>
+      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs 往前4567890</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
       <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
