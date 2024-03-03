@@ -12,11 +12,11 @@
     </ul>
     <h3>Essential Links</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs 往前专属新分支</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs 往前专属新分支111</a></li>
+      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum222</a></li>
+      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat333</a></li>
+      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter444</a></li>
+      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News555</a></li>
     </ul>
     <h3>Ecosystem</h3>
     <ul>
